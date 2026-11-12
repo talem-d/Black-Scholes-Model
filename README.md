@@ -41,6 +41,7 @@ delta = calculate_delta(opt)
 
 print(f"Call Price: ${price:.2f}")
 print(f"Delta: {delta:.4f}")
+```
 
 ## Visualizations
 
