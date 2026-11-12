@@ -41,3 +41,11 @@ delta = calculate_delta(opt)
 
 print(f"Call Price: ${price:.2f}")
 print(f"Delta: {delta:.4f}")
+
+## Visualizations
+
+### Call Option Payoff
+![Payoff Diagram](Black%20Scholes%20Model/visualization/payoff_diagram.png)
+
+### The Volatility Smile
+![Volatility Smile](Black%20Scholes%20Model/visualization/volatility_smile.png)
