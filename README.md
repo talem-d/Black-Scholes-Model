@@ -45,7 +45,7 @@ print(f"Delta: {delta:.4f}")
 ## Visualizations
 
 ### Call Option Payoff
-![Payoff Diagram](Black%20Scholes%20Model/visualization/payoff_diagram.png)
+<img src="Black%20Scholes%20Model/visualization/payoff_diagram.png" alt="Payoff Diagram" width="600">
 
 ### The Volatility Smile
-![Volatility Smile](Black%20Scholes%20Model/visualization/volatility_smile.png)
+<img src="Black%20Scholes%20Model/visualization/volatility_smile.png" alt="Volatility Smile" width="600">
